@@ -72,6 +72,12 @@ O protótipo não coleta dados por rede, não envia conteúdo para serviços ext
 3. Registrar uma solicitação, filtrar seu status e atualizar a página para demonstrar persistência local.
 4. Mostrar os avisos de dados simulados, privacidade e conexão com os ODS.
 
+### Dados da solicitação
+O formulário registra assunto, categoria, local de referência e descrição.
+
+### Status das solicitações
+As solicitações podem aparecer como Recebida, Em análise ou Orientação disponível.
+
 ## Commits da equipe
 
 Mantenham os commits reais de cada integrante no repositório da equipe para evidenciar a evolução do projeto. Este pacote contém os arquivos-fonte; não inventa histórico de commits nem link de repositório.
