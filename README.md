@@ -17,7 +17,6 @@ Hortas comunitárias e escolares podem ter dificuldade para acompanhar condiçõ
 
 ## Integrantes
 
-Preencher antes da entrega no portal FIAP:
 
 | Nome completo | RM |
 |---|---|
