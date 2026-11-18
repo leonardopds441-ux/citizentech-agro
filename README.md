@@ -34,6 +34,16 @@ Hortas comunitárias e escolares podem ter dificuldade para acompanhar condiçõ
 - Layout responsivo, navegação por teclado, rótulos de formulário, mensagens de estado e respeito a `prefers-reduced-motion`.
 - Avisos de escopo e privacidade nas telas, com orientação para não inserir dados pessoais reais.
 
+### Campos das leituras
+
+O formulário registra umidade do solo, temperatura e pH.
+
+### Faixas aceitas
+
+Umidade:0 - 100%.
+Temperatura: -10 a 60 graus ceusius.
+pH: 0 a 14.
+
 ## Executar localmente
 
 Requer Node.js **22.12 ou superior**.
